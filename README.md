@@ -34,4 +34,4 @@ Pike Admin is a clean and modern admin template built with Bootstrap 4. It stand
 - Image magnifier
 - Font Awesome Icons
 
-** More details, demo and download here: https://www.pikeadmin.com/ **
+**More details, demo and download here: [PikeAdmin](https://www.pikeadmin.com)  **
