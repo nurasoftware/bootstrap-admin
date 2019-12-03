@@ -4,6 +4,8 @@
 
 Pike Admin is a clean and modern admin template built with Bootstrap 4. It stands out with its clean design and elegant typography. Pike Admin Free edition is completely free to download and use for your personal or commercial projects.
 
+![Design Blocks](https://www.pikeadmin.com/assets/img/pike-bootstrap4-admin-template.jpg)
+
 ## Main features:
 
 - Full Responsive Design
