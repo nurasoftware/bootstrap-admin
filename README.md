@@ -1,10 +1,10 @@
-# [PikeAdmin](https://www.pikeadmin.com) 
+# [NuraAdmin](https://bootstrap24.com/template/nura-admin-4-free-bootstrap-admin-template) 
 
-**PikeAdmin - FREE Bootstrap 4 Admin Dashboard Template.**
+**NuraAdmin - FREE Bootstrap Admin Dashboard Template.**
 
-Pike Admin is a clean and modern admin template built with Bootstrap 4. It stands out with its clean design and elegant typography. Pike Admin Free edition is completely free to download and use for your personal or commercial projects.
+Nura Admin is a clean and modern admin template built with Bootstrap 4. It stands out with its clean design and elegant typography. Pike Admin Free edition is completely free to download and use for your personal or commercial projects.
 
-![Design Blocks](https://www.pikeadmin.com/assets/img/pike-bootstrap4-admin-template.jpg)
+![Design Blocks](https://bootstrap24.com/uploads/202102/jwBC3z6Thfqr-screenshot.JPG)
 
 ## Main features:
 
@@ -34,4 +34,4 @@ Pike Admin is a clean and modern admin template built with Bootstrap 4. It stand
 - Image magnifier
 - Font Awesome Icons
 
-**More details, demo and download here: [PikeAdmin](https://www.pikeadmin.com)  **
+**More details, demo and download here: [NuraAdmin](https://bootstrap24.com/template/nura-admin-4-free-bootstrap-admin-template)  **
