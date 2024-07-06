@@ -1,10 +1,6 @@
-# [NuraAdmin](https://bootstrap24.com/template/nura-admin-4-free-bootstrap-admin-template) 
+**Nura BootAdmin - FREE Bootstrap Admin Dashboard Template.**
 
-**NuraAdmin - FREE Bootstrap Admin Dashboard Template.**
-
-Nura Admin is a clean and modern admin template built with Bootstrap 4. It stands out with its clean design and elegant typography. Pike Admin Free edition is completely free to download and use for your personal or commercial projects.
-
-![Design Blocks](https://bootstrap24.com/uploads/202102/jwBC3z6Thfqr-screenshot.JPG)
+Nura BootAdmin is a clean and modern admin template built with Bootstrap 4. It stands out with its clean design and elegant typography. Pike Admin Free edition is completely free to download and use for your personal or commercial projects.
 
 ## Main features:
 
