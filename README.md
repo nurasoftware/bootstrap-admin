@@ -29,5 +29,3 @@ Nura Bootstrap Admin is a clean and modern admin template built with Bootstrap 4
 - Owl carousel
 - Image magnifier
 - Font Awesome Icons
-
-**More details, demo and download here: [NuraAdmin](https://bootstrap24.com/template/nura-admin-4-free-bootstrap-admin-template)  **
